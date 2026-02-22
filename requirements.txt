@@ -1,0 +1,5 @@
+lanchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
